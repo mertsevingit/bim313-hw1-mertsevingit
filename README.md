@@ -27,3 +27,4 @@ Example of triangle inequality violation [1]:
 ![Example of triangle inequality violation](https://github.com/AnadoluUniversityCeng/Triangle-Inequality-Violation/blob/master/tiv.png?raw=true "Example of triangle inequality violation")
 
 [1] Cristian Lumezanu, Randy Baden, Neil Spring, and Bobby Bhattacharjee. 2009. Triangle Inequality and Routing Policy Violations in the Internet. In Proceedings of the 10th International Conference on Passive and Active Network Measurement (PAM '09)
+
